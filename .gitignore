@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# WebStorm project files
+.idea/
+
+# TypeScript build files
+dist/
+*.tsbuildinfo
+
+# Temporary files
+temp/
+*.tmp
+
+# Docker files
+#docker/
